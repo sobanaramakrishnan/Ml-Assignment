@@ -1,5 +1,3 @@
-# Ml-Assignment
-
 # <Your Project Title> – Multi-Model Classification & Streamlit Deployment
 
 ## a. Problem Statement
