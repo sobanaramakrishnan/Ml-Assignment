@@ -6,4 +6,3 @@ matplotlib
 seaborn
 joblib
 tabulate
-google-generativeai
