@@ -29,7 +29,7 @@ https://github.com/sobanaramakrishnan/Ml-Assignment.git
 └── model/              # 5 saved .joblib pipelines, meta.json, metrics_comparison.csv
 ```
 
-Live app: <https://YOUR-APP-NAME.streamlit.app>
+Live app: https://ml-assignment-jxtzhfw9wnmhrytygpejek.streamlit.app/
 
 ## d. Models Used
 
